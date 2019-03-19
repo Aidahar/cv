@@ -133,8 +133,9 @@ dfn {
  */
 
 h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
+/* font-size: 2em; */
+   margin: 0.67em 0;
+   
 }
 
 /**
@@ -425,4 +426,8 @@ table {
 td,
 th {
   padding: 0;
+}
+
+section {
+	margin-top: 35px; 
 }
