@@ -429,5 +429,10 @@ th {
 }
 
 section {
-	margin-top: 35px; 
+	margin-top: 25px; 
+  border-bottom: 1px solid #D4D4D4;
+}
+
+.title {
+  border: 0;
 }
